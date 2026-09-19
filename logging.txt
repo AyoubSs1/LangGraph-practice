@@ -1,0 +1,14 @@
+Your Conversation Log:
+You: Hii
+AI: It's nice to meet you. Is there something I can help you with or would you like to chat?
+
+You: what 
+AI: It seems like you started to ask a question, but it got cut off. Could you please complete your question or let me know what's on your mind? I'm here to help and provide information on a wide range of topics. What would you like to know or discuss?
+
+You: what's 2+2 ?
+AI: The answer to 2+2 is 4.
+
+You: ok thanks
+AI: You're welcome. If you have any more questions or need help with anything else, feel free to ask. Have a great day!
+
+End of Conversation
