@@ -1,0 +1,28 @@
+# LangGraph
+langgraph
+
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM - Groq
+langchain-groq
+
+# RAG / Vector Database
+langchain-chroma
+chromadb
+
+# Embeddings
+langchain-huggingface
+sentence-transformers
+
+# PDF
+pypdf
+
+# Environment variables
+python-dotenv
+
+# Hugging Face
+transformers

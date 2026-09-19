@@ -43,7 +43,7 @@ embeddings = HuggingFaceEmbeddings(
 
 # Loading the pdf document
 # The document path
-pdf_path = "/home/ayoub/Desktop/LangGraph-practice/AI-AGENTS/Stock_Market_Performance_2024.pdf"
+pdf_path = "/home/ayoub/Desktop/LangGraph-practice/AI-AGENTS/rag/data/Stock_Market_Performance_2024.pdf"
 # A safety measure
 if not os.path.exists(pdf_path):
     raise FileNotFoundError(f"File not found :{pdf_path}")
